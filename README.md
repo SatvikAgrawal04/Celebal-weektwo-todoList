@@ -15,3 +15,7 @@ This project is a simple Todo List application built using React as a part of th
 
 - **React**: Frontend JavaScript library for building user interfaces.
 - **localStorage**: Browser feature for storing data locally.
+
+## Author
+
+[@SatvikAgrawal04](https://github.com/SatvikAgrawal04)
